@@ -17,7 +17,6 @@
    
    </div>
     
-  
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: MariaMirelliCirilo@gmail.com">
       <img width="30" src="https://img.icons8.com/3d-fluency/1x/gmail.png">
